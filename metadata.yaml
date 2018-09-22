@@ -1,5 +1,5 @@
 _repo: Young-Lord-Stranleigh-A-Novel_55329
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Flagg, James Montgomery
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '25940'
     url: http://www.gutenberg.org/2009/agents/25940
     wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+covers:
+- cover_type: archival
+  image_path: 55329-h/images/cover.jpg
 creator:
   author:
     agent_name: Barr, Robert
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1616
     wikipedia: http://en.wikipedia.org/wiki/Robert_Barr_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55329#Young-Lord-Stranleigh-A-Novel
 gutenberg_issued: '2017-08-10'
 gutenberg_type: Text
 identifiers:
