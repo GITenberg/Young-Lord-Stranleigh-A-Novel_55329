@@ -1,0 +1,34 @@
+_repo: Young-Lord-Stranleigh-A-Novel_55329
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Flagg, James Montgomery
+    alias: Flagg, J. Montgomery
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '25940'
+    url: http://www.gutenberg.org/2009/agents/25940
+    wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+creator:
+  author:
+    agent_name: Barr, Robert
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '1616'
+    url: http://www.gutenberg.org/2009/agents/1616
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Barr_%28writer%29
+description: ''
+gutenberg_issued: '2017-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: 'Young Lord Stranleigh: A Novel'
+url: http://www.gutenberg.org/ebooks/55329
